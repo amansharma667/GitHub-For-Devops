@@ -4,5 +4,4 @@ def my_function():
     b = 8
     return a , b
 
-
 my_function()
